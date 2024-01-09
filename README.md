@@ -29,7 +29,7 @@ O especificando la versión que tengamos, por ejemplo:
 ```
 python3 main.py
 ```
-![Imagen1](src/img/Imagen1.png){width=350px}
+![Imagen1](src\img\Imagen1.png){width=350px}
 > Imagen 1: Iniciar el programa mediante CMD.
 
 Tambien podemos probar en un IDE de nuestra preferencia como por ejemplo Visual Studio Code. Donde tenemos las opciones de usar el mismo comando en la consola, o iniciar con facilidades del IDE ubicándonos en main.py.
