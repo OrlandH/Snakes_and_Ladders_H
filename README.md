@@ -233,4 +233,4 @@ Como jugador quiero mover mi ficha basándome en el lanzamiento de un dado para 
 
 
 
-#Gracias!
+# Gracias!
