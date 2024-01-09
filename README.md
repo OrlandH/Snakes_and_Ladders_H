@@ -30,6 +30,7 @@ O especificando la versión que tengamos, por ejemplo:
 python3 main.py
 ```
 <img src='src/img/Imagen1.PNG' width='500'>
+
 >Imagen 1: Iniciar el programa mediante CMD.
 
 Tambien podemos probar en un IDE de nuestra preferencia como por ejemplo Visual Studio Code. Donde tenemos las opciones de usar el mismo comando en la consola, o iniciar con facilidades del IDE ubicándonos en main.py.
