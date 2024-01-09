@@ -1,20 +1,21 @@
+# Importar los objetos
 from src.juego import Juego
 from src.jugador import Jugador
-from colorama import Fore
 
 def main():
+    # Bucle para repetir juego
     while True:
+        #Se ingresa número de jugadores
         num_jugadores = int(input("Ingrese el número de jugadores (1-4): "))
-
+        #Se hace la condicion para que este en el rango de 1 a 4 se inicie el juego 
         if 1 <= num_jugadores <= 4:
-            colores = [Fore.RED, Fore.BLUE, Fore.GREEN, Fore.YELLOW]
-            jugadores = [Jugador(f"J{i + 1}", colores[i]) for i in range(num_jugadores)]
-
+            #Se envia el numero de jugadores
             juego = Juego(num_jugadores)
             juego.iniciar_juego()
 
-           
+           #Una vez terminado el juego, se pregunta si desean jugar de nuevo
             opcion = input("¿Desea jugar otra vez? (s/n): ").lower()
+            #Se rompe el bucle en caso seleccione algo diferente de 's'
             if opcion != 's':
                 break 
         else:
