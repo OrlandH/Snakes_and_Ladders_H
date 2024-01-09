@@ -19,6 +19,11 @@ pip install colorama
 pip install random
 ```
 ## Ejecutar el programa
+> [!NOTE]
+>
+> Es necesario tener instalado una versión de Python actualizada. De lo contrario puede descargarlo e instalarlo siguiendo los pasos del siguiente enlace adaptandolo a su sistema operativo:
+> https://www.python.org/downloads/
+
 El juego se puede iniciar mediante consola de comandos, ubicándonos en el directorio donde esté el proyecto. Ejecutando el codigo:
 
 ```
