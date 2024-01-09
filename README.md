@@ -29,11 +29,12 @@ O especificando la versión que tengamos, por ejemplo:
 ```
 python3 main.py
 ```
-![Imagen1](src/img/Imagen1.PNG){width=350px}
+<img src='src/img/Imagen1.PNG' width='350'>
 > Imagen 1: Iniciar el programa mediante CMD.
 
 Tambien podemos probar en un IDE de nuestra preferencia como por ejemplo Visual Studio Code. Donde tenemos las opciones de usar el mismo comando en la consola, o iniciar con facilidades del IDE ubicándonos en main.py.
-![Imagen2](src/img/Imagen2.PNG){width=350px}
+
+<img src='src/img/Imagen2.PNG' width='350'>
 > Imagen 2: Iniciar el programa mediante un IDE.
 
 ## Serpientes y Escaleras:
@@ -56,8 +57,10 @@ La primera característica que queremos implementar es la capacidad de mover tu 
   
 #### Tablero de juego
 En este caso, se usó como referencia el tablero de juego incluido en el PDF para representarlo en consola, ya que no se uso una interfaz gráfica. 
-![Imagen3](src/img/Imagen3.PNG){width=350px}
+
+<img src='src/img/Imagen3.PNG' width='350'>
 > Imagen 3: Tablero Original.
+
 ![Imagen4](src/img/Imagen4.PNG){width=350px}
 > Imagen 4: Tablero en Consola.
 
