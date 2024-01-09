@@ -87,7 +87,7 @@ Ademas en la parte inferior del tablero se vera actualizado y constantemente la 
 
 <img src='src/img/Imagen6.PNG' width='500'>
 
->Imagen 6: Ubicación de cada jugador remplazando el número de casilla en el que esta. Incluso si estan en la misma casilla como [J1] y [J2] en este ejemplo.
+>Imagen 6: Ubicación de cada jugador remplazando el número de casilla en el que esta. Incluso si estan en la misma casilla.
 
 #### Funcionalidad Juego
 Se escoge el número de jugadores, y ira mediante turnos. En el orden `[J1]`, `[J2]`, `[J3]` y `[J4]`.
